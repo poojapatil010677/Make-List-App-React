@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Make-List-App-React/static/css/main.9692c897.chunk.css",
+    "main.js": "/Make-List-App-React/static/js/main.7d8baf20.chunk.js",
+    "main.js.map": "/Make-List-App-React/static/js/main.7d8baf20.chunk.js.map",
+    "runtime-main.js": "/Make-List-App-React/static/js/runtime-main.3d476951.js",
+    "runtime-main.js.map": "/Make-List-App-React/static/js/runtime-main.3d476951.js.map",
+    "static/js/2.25402f46.chunk.js": "/Make-List-App-React/static/js/2.25402f46.chunk.js",
+    "static/js/2.25402f46.chunk.js.map": "/Make-List-App-React/static/js/2.25402f46.chunk.js.map",
+    "index.html": "/Make-List-App-React/index.html",
+    "precache-manifest.38fb133681e42725fddb33abc964420a.js": "/Make-List-App-React/precache-manifest.38fb133681e42725fddb33abc964420a.js",
+    "service-worker.js": "/Make-List-App-React/service-worker.js",
+    "static/css/main.9692c897.chunk.css.map": "/Make-List-App-React/static/css/main.9692c897.chunk.css.map",
+    "static/js/2.25402f46.chunk.js.LICENSE.txt": "/Make-List-App-React/static/js/2.25402f46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d476951.js",
+    "static/js/2.25402f46.chunk.js",
+    "static/css/main.9692c897.chunk.css",
+    "static/js/main.7d8baf20.chunk.js"
+  ]
+}
